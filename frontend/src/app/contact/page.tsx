@@ -558,7 +558,7 @@ const ContactPage: React.FC = () => {
             Get In Touch
           </PageTitle>
           <PageSubtitle>
-            Ready to start your yoga journey? We're here to help you every step of the way. 
+            Ready to start your yoga journey? We&apos;re here to help you every step of the way. 
             Reach out to us through any of the methods below.
           </PageSubtitle>
         </HeaderSection>
@@ -593,7 +593,7 @@ const ContactPage: React.FC = () => {
           <FormContainer>
             <FormTitle>Send us a Message</FormTitle>
             <FormSubtitle>
-              Have a question or want to book a session? Fill out the form below and we'll get back to you within 24 hours.
+              Have a question or want to book a session? Fill out the form below and we&apos;ll get back to you within 24 hours.
             </FormSubtitle>
             
             <form onSubmit={handleSubmit}>
