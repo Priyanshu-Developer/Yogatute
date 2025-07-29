@@ -386,7 +386,7 @@ const About: React.FC = () => {
             maxWidth: '800px',
             mx: 'auto'
           }}>
-            "The studio is committed to fostering a culture of positivity, resilience, and well-being, guided by the principles of yoga and self-discovery."
+            &ldquo;The studio is committed to fostering a culture of positivity, resilience, and well-being, guided by the principles of yoga and self-discovery.&rdquo;
           </Typography>
         </Box>
       </Container>

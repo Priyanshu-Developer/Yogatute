@@ -347,7 +347,7 @@ const Teaching: React.FC = () => {
             <Typography variant="body1" sx={{ lineHeight: 1.8, fontSize: '1.1rem', mb: 4 }}>
               Join our internationally recognized teacher training programs designed to deepen your practice, 
               expand your knowledge, and prepare you for a fulfilling career in teaching yoga. 
-              Whether you're a beginner or advanced practitioner, we have the perfect program for your journey.
+              Whether you&apos;re a beginner or advanced practitioner, we have the perfect program for your journey.
             </Typography>
             
             <Stack direction="row" spacing={2} justifyContent="center" flexWrap="wrap" gap={2}>
@@ -678,7 +678,7 @@ const Teaching: React.FC = () => {
               mx: 'auto'
             }}>
               Take the first step towards a meaningful career in yoga teaching. Join our community of certified instructors 
-              and make a positive impact on people's lives through the transformative power of yoga.
+              and make a positive impact on people&apos;s lives through the transformative power of yoga.
             </Typography>
             <Stack direction="row" spacing={2} justifyContent="center" flexWrap="wrap" gap={2}>
               <Button 
