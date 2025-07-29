@@ -1,3 +1,4 @@
+
 import React, { useState, useRef, useEffect } from 'react';
 import { 
     AppBar, 
@@ -27,10 +28,12 @@ interface NavigationItem {
 
 const navigationItems: NavigationItem[] = [
     { name: 'Home', href: '/' },
-    { name: 'Programs', href: '/programs' },
-    { name: 'Features', href: '/features' },
-    { name: 'Reviews', href: '/reviews' },
-    { name: 'Contact', href: '/contact' }
+    { name: 'About Us', href: '/about-us' },
+    { name: 'Therapeutic Yoga', href: '/therapeutic-yoga' },
+    { name: 'Blog', href: '/blog' },
+    { name: 'Contact', href: '/contact' },
+    { name: 'Event', href: '/event' },
+    { name: 'Teaching', href: '/teaching' },
 ];
 
 const Navbar: React.FC = () => {
